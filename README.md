@@ -30,7 +30,7 @@ The app uses the [restcountries.com](https://restcountries.com/) REST API to sho
 ## Architecture overview
 
 <p align="center">
-	 <img src="Diagram.png" alt="Diagram" width="300"> 
+	 <img src="Diagram.png" alt="Diagram"> 
 </p>
 
 ### Presentation Layer
