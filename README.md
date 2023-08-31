@@ -11,6 +11,11 @@ The app uses the [restcountries.com](https://restcountries.com/) REST API to sho
 
 ![platforms](https://img.shields.io/badge/platforms-iPhone%20%7C%20iPad%20%7C%20macOS-lightgrey) 
 
+<p align="center">
+  <img src="main.png" alt="Main Screen" width="300"> <!-- Adjust width as needed -->
+  <img src="details.png" alt="Details Screen" width="300"> <!-- Adjust width as needed -->
+</p>
+
 ## Key features
 * Vanilla **SwiftUI** implementation
 * Decoupled **Presentation**, **Business Logic**, and **Data Access** layers
