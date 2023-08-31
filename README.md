@@ -27,6 +27,12 @@ The app uses the [restcountries.com](https://restcountries.com/) REST API to sho
 * Built with SOLID and DRY
 * Designed for scalability. It can be used as a reference for building large production apps
 
+## Architecture overview
+
+<p align="center">
+	 <img src="Diagram.png" alt="Diagram" width="300"> 
+</p>
+
 ### Presentation Layer
 **SwiftUI views** that contain no business logic and are a function of the state.
 
